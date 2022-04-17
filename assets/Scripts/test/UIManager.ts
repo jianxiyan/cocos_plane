@@ -1,5 +1,5 @@
-import ManagerBase from './base/ManagerBase';
-import { MessageType } from './base/Message';
+import ManagerBase from '../base/ManagerBase';
+import { MessageType } from '../base/Message';
 
 const {ccclass, property} = cc._decorator;
 

@@ -1,5 +1,5 @@
-import { MessageType } from './base/Message';
-import MessageCenter from './base/MessageCenter';
+import { MessageType } from '../base/Message';
+import MessageCenter from '../base/MessageCenter';
 
 const {ccclass, property} = cc._decorator;
 
